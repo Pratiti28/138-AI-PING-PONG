@@ -1,0 +1,22 @@
+body
+{
+
+}
+
+canvas{
+    border: 2px darkblue solid;
+    border-radius: 70px;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h2{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+}
